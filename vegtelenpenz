@@ -1,0 +1,6 @@
+print ("Hello ciganyok")
+db=6000000000000
+int=int(input("intinput")
+while int>1
+  db+=100
+print(db,"forintom van, aka geci gazdag vagyok")  
